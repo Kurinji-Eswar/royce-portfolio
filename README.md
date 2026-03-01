@@ -1,37 +1,72 @@
-# 🚀 Royce Jose | Personal Portfolio
+# ⚡ Personal Portfolio Website
 
-> A sleek, aggressive, and highly responsive personal portfolio website built with a modern Black & Red "System Override" aesthetic.
+A modern, high-performance developer portfolio designed to showcase projects, skills, and experience with a futuristic UI and smooth interactive animations.
 
-![Live Site](https://img.shields.io/badge/Live-Website-e11d48?style=for-the-badge&logo=vercel)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-🌐 **Live Demo:** [https://royce-portfolio.vercel.app/](https://royce-portfolio.vercel.app/)
+Built using pure frontend technologies — no frameworks, no build tools — making it lightweight, fast, and instantly deployable.
 
 ---
 
-## ⚡ Features
+## 🌐 Live Demo
+> https://your-portfolio-link.vercel.app/
 
-- **Dark Mode UI:** A sharp Black & Red color palette with grid-based backgrounds and high-contrast typography.
-- **Custom Cursor:** Interactive red dot and ring cursor that reacts to clickable elements.
-- **Dynamic Typing Effect:** A typewriter animation in the hero section displaying rotating roles.
-- **Scroll Progress Indicator:** A fixed gradient bar at the top tracking page scroll progress.
-- **Filterable Projects:** Easily toggle between different project categories (Web Apps, Tools & APIs, etc.) with smooth fade-in animations.
-- **Interactive Timelines & Skill Bars:** Visual representation of career history and technical proficiencies with scroll-triggered animations.
-- **Glassmorphism Navigation:** Sticky top navigation bar with a frosted glass effect that adapts on mobile.
-- **Fully Responsive:** Perfectly scaled for desktops, tablets, and mobile devices.
+---
+
+## 🧠 About The Project
+
+This portfolio is designed as a **professional digital identity page** rather than a simple resume website.
+
+The goal is to:
+- Present projects clearly
+- Demonstrate frontend engineering skills
+- Maintain high visual impact
+- Keep performance extremely fast (0 build time)
+
+The UI follows a **minimal cyber-tech aesthetic** with focus on readability, contrast, and interaction feedback.
+
+---
+
+## ✨ Features
+
+### 🎨 User Interface
+- Dark themed modern layout
+- Glassmorphism navigation bar
+- Smooth section reveal animations
+- Responsive grid based design
+- Mobile-first layout
+
+### ⚙️ Interactions
+- Custom cursor with hover detection
+- Typing animation in hero section
+- Scroll progress indicator
+- Animated skill bars
+- Filterable project categories
+- Sticky navigation highlight
+
+### 📊 Content Sections
+- Hero introduction
+- About / Profile
+- Skills visualization
+- Project showcase
+- Timeline / Experience
+- Contact section
+- Downloadable resume
+
+---
 
 ## 🛠️ Tech Stack
 
-- **Markup:** HTML5
-- **Styling:** Tailwind CSS (via CDN)
-- **Scripting:** Vanilla JavaScript (ES6+)
-- **Typography:** [Space Grotesk](https://fonts.google.com/specimen/Space+Grotesk) & [Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans) (Google Fonts)
-- **Icons:** [Feather Icons](https://feathericons.com/)
-- **Hosting:** Vercel
+| Category | Technology |
+|--------|------|
+| Markup | HTML5 |
+| Styling | Tailwind CSS (CDN) |
+| Logic | Vanilla JavaScript (ES6) |
+| Icons | Feather Icons |
+| Fonts | Google Fonts |
+| Hosting | Vercel |
 
-## 📂 Project Structure
+---
+
+## 📁 Project Structure
 
 It's a lightweight, single-page application.
 ```text
@@ -40,3 +75,17 @@ It's a lightweight, single-page application.
  ┣ 📜 profile.jpg       # Profile picture used in the About section
  ┣ 📜 Royce_Jose_Resume.pdf # Downloadable resume file
  ┗ 📜 README.md         # Project documentation
+
+
+No bundlers. No package.json. No dependencies.
+
+---
+
+## 🚀 Running Locally
+
+Just open the file.
+
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+open index.html
